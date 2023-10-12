@@ -1,1 +1,5 @@
-Hey, hi, I used the Latex template to describe my resume. If you are the same android developer and want the same template, then I am glad that I can share it with you https://vk.com/away.php?to=https%3A%2F%2Fwww.overleaf.com%2Fread%2Fpvbwsycqktvf&cc_key=. By the way, to better deal with Latex code, I used ChatGPT. He also helped me choose more concise words and summarize information. For translation, I mainly used DeepL. 
+Всем хай. Когда я готовился к поиску работы, то я искал себе шаблон для резюме. И когда я не нашел то, что мне понравилось, то сделал из примера свое. Я решил, что будет полезно им поделиться т.к этот шаблон поможет андройд разработчикам зайти и внести правки на свои данные и рассылать свое резюме компаниям.
+
+Наслаждайтесь!
+
+Akhmedov Murad: Android Developer CV (RU) Public version: https://www.overleaf.com/read/pphgrqybdnkf
